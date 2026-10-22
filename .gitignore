@@ -45,6 +45,10 @@
 **/data/
 **/input/
 **/Database_backup/
-
-# Too large or duplicate
-/Notebook/AbstractiveSummarization.ipynb
+**/.conda/
+**/cdk.out/
+**/TOS_DI-*/
+**/darknet/
+**/labelImg-master/
+**/jTessBoxEditor*/
+**/Tesseract-OCR/
